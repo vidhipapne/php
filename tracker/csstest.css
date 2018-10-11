@@ -1,0 +1,35 @@
+body {
+  background-image: url(background.png);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+form,h1,p,a:link{
+  color:white;
+}
+input{
+  border:10px; 
+  color: dodgerblue;
+}
+form {
+    font-family: verdana;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+}
+p{
+ font size: 25px;
+}
+a:visited {
+    color: pink;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
