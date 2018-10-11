@@ -1,3 +1,3 @@
 # php
-a simple example form php-mysql connectivity
+### A simple example form php-mySQL connectivity
 sample login and signup form connected to a database
